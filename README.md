@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @svigneshkumar
+- 👋 Hi, I’m Vignesh
 - 👀 I’m interested in Web Development, Data Science and Machine Learning.
 - 🌱 I’m currently learning and practicing Data Science and ML.
 - 💞️ I’m looking for opportunities in Data Science and Machine Learning.
